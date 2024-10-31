@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there I'm Siddhi Kumbhar|
 
+-🎓 Computer Science and Engineering Student at Sardar Patel Institute of Technology, Mumbai
+-🚀 Currently Learning: Machine Learning, Computer Vision , OpenAI
 <!--
 **siddhiK30/siddhiK30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
